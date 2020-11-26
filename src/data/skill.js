@@ -7,7 +7,7 @@ const skillData = {
         score: 82
     }, {
         item: '沟通',
-        score: 85
+        score: 89
     }, {
         item: '学习',
         score: 90
@@ -24,7 +24,7 @@ const skillData = {
             "value": 1383220000,
             "category": "a"
         }, {
-            "x": "JS",
+            "x": "JavaScript",
             "value": 1316000000,
             "category": "a"
         }, {
@@ -33,42 +33,42 @@ const skillData = {
             "category": "a"
         }, {
             "x": "React",
-            "value": 263510000,
-            "category": "b"
+            "value": 283510000,
+            "category": "a"
         }, {
             "x": "Vue",
-            "value": 207505000,
+            "value": 187505000,
             "category": "b"
         }, {
-            "x": "Angular",
-            "value": 196459000,
-            "category": "b"
-        }, {
-            "x": "Node.js",
-            "value": 191836000,
+            "x": "Typescript",
+            "value": 101836000,
             "category": "c"
         }, {
             "x": "Canvas",
-            "value": 162459000,
+            "value": 192459000,
             "category": "c"
         }, {
             "x": "WebGL",
-            "value": 146804372,
+            "value": 166804372,
             "category": "c"
         }, {
-            "x": "Three.js",
+            "x": "Java",
             "value": 126790000,
-            "category": "d"
+            "category": "c"
         }, {
-            "x": "typescript",
-            "value": 123518000,
-            "category": "d"
+          "x": "JSP&Servlet",
+          "value": 136790000,
+          "category": "c"
         }, {
-            "x": "Webpack",
-            "value": 104345000,
-            "category": "d"
+          "x": "C/C++",
+          "value": 106790000,
+          "category": "c"
         }, {
-            "x": "Gulp",
+          "x": "Node.js",
+          "value": 100790000,
+          "category": "d"
+        }, {
+            "x": "Tensorflow",
             "value": 104037000,
             "category": "e"
         }, {
@@ -96,13 +96,17 @@ const skillData = {
             "value": 79814871,
             "category": "a"
         }, {
-            "x": "graphQL",
-            "value": 68298000,
-            "category": "b"
-        }, {
-            "x": "webWorker",
+            "x": "Webpack",
             "value": 67013000,
             "category": "b"
+        }, {
+          "x": "MySQL",
+          "value": 144345000,
+          "category": "d"
+        }, {
+          "x": "MyBatis",
+          "value": 124345000,
+          "category": "d"
         }, {
             "x": "SSR",
             "value": 65110000,
@@ -112,37 +116,13 @@ const skillData = {
             "value": 60599936,
             "category": "b"
         }, {
-            "x": "WebAssembly",
-            "value": 56878000,
-            "category": "c"
-        },{
-            "x": "JS",
-            "value": 54836000,
-            "category": "c"
-        }, {
-            "x": "CSS",
-            "value": 51446201,
-            "category": "c"
-        }, {
-            "x": "HTML",
-            "value": 49224700,
-            "category": "c"
-        }, {
-            "x": "Three.js",
-            "value": 48467000,
-            "category": "d"
-        }, {
-            "x": "Canvas",
-            "value": 46812000,
-            "category": "D"
-        }, {
             "x": "细节控",
             "value": 42541633,
-            "category": "europe"
+            "category": "e"
         }, {
             "x": "像素",
             "value": 42176000,
-            "category": "africa"
+            "category": "f"
         }
     ]
 }
